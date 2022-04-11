@@ -1,4 +1,5 @@
-* linguist-vendored
-*.python linguist-detectable=true
+#* linguist-vendored
+#*.python linguist-detectable=true
 
 CadastroSQLITE/venv/Scripts/* linguist-vendored
+JogoDeDados/venv/Scripts/* linguist-vendored
