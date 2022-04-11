@@ -1,2 +1,4 @@
 * linguist-vendored
 *.python linguist-detectable=true
+
+CadastroSQLITE/venv/Scripts/* linguist-vendored
